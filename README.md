@@ -1,3 +1,2 @@
 # workflowgroupe
-
-https://github.com/modernplayer/workflowgroupe.git
+ https://gastaud.io/article/git-workflow/
